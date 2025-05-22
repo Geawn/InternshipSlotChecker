@@ -7,3 +7,5 @@ The code is for AWS Lambda development. If you want to use it locally, you must 
 
 https://internship-checker.vercel.app/
 ## Good luck!
+
+There is also an additional feature that use Gemini api to check if a company require transcript, Cv , GPA. (still working)
