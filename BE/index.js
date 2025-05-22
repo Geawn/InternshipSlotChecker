@@ -4,7 +4,7 @@ const path = require('path');
 
 const BASE_URL = 'https://internship.cse.hcmut.edu.vn/home/company';
 const CACHE_FILE = "companies.json";
-const CACHE_EXPIRE_HOURS = 5;
+const CACHE_EXPIRE_HOURS = 2;
 
 async function saveToJsonFile(data) {
     try {
