@@ -158,7 +158,7 @@
                 }
 
                 if (!data) {
-                    const response = await fetch('http://localhost:3000/api/companies');
+                    const response = await fetch('localhost');
                     data = await response.json();
                     
                     localStorage.setItem('companiesData', JSON.stringify(data));
