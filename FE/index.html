@@ -158,7 +158,7 @@
                 }
 
                 if (!data) {
-                    const response = await fetch('https://lmytguwz6dqsnvgucnz6jzzegq0cbppf.lambda-url.ap-southeast-2.on.aws/');
+                    const response = await fetch('localhost');
                     data = await response.json();
                     
                     localStorage.setItem('companiesData', JSON.stringify(data));
