@@ -1,6 +1,36 @@
 const axios = require('axios');
 const BASE_URL = 'https://internship.cse.hcmut.edu.vn/home/company';
 
+async function saveToJsonFile(data) {
+    filename = "companies.json";
+    try {
+        const filePath = path.join(__dirname, filename);
+        
+        const jsonData = JSON.stringify(data, null, 2);
+        
+        await fs.promises.writeFile(filePath, jsonData, 'utf8');
+        
+        return true;
+    } catch (error) {
+        return false;
+    }
+}
+
+async function readFromJsonFile() {
+    filename = "companies.json";
+    try {
+        const filePath = path.join(__dirname, filename);
+        
+        const jsonData = await fs.promises.readFile(filePath, 'utf8');
+        
+        const data = JSON.parse(jsonData);
+        
+        return data;
+    } catch (error) {
+        return false; 
+    }
+}
+
 // Hàm lấy tất cả công ty (giữ nguyên)
 async function getAllCompanies() {
     const url = `${BASE_URL}/all?nocache=${Math.random()}`;
@@ -86,6 +116,18 @@ async function calculateAcceptanceRatio() {
 // Handler chính (đã sửa để trả thêm thông tin)
 exports.handler = async () => {
     try {
+        const data = await readFromJsonFile();
+        const lastUpdated = new Date(data.lastUpdated);
+        const now = new Date();
+        const diffHours = (now - lastUpdated) / (1000 * 60 * 60);
+        if (data && diffHours < 5) {
+            console.log("Dữ liệu còn mới, lấy từ cache:", data.lastUpdated);
+            res.json(data);
+            return;
+        }
+
+
+
         // Lấy danh sách công ty còn slot
         const companies = await getAllCompanies();
         const availableCompanies = [];
