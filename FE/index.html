@@ -145,9 +145,25 @@
     <script>
         async function loadData() {
             try {
-                // import the link to aws lambda function backend
-                const response = await fetch('ko lam ma doi co an thi an db'); // replace the text with the link
-                const data = await response.json();
+                let data;
+                const cachedData = localStorage.getItem('companiesData');
+                const cachedTime = localStorage.getItem('companiesLastFetch');
+                const now = new Date().getTime();
+
+                if (cachedData && cachedTime) {
+                    const timeDiff = (now - parseInt(cachedTime)) / (1000 * 60 * 60);
+                    if (timeDiff < 5) {
+                        data = JSON.parse(cachedData);
+                    }
+                }
+
+                if (!data) {
+                    const response = await fetch('http://localhost:3000/api/companies');
+                    data = await response.json();
+                    
+                    localStorage.setItem('companiesData', JSON.stringify(data));
+                    localStorage.setItem('companiesLastFetch', now.toString());
+                }
 
                 if (data.acceptanceStats) {
                     document.getElementById('total-companies').textContent = data.acceptanceStats.totalCompanies;
