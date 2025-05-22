@@ -1,0 +1,1198 @@
+{
+  "success": true,
+  "availableCompanies": [
+    {
+      "fullname": "VINOVA PTE. LTD.",
+      "shortname": "Vinova",
+      "registerInfo": "1/1",
+      "acceptanceInfo": "0/1"
+    },
+    {
+      "fullname": "Bosch 3 - ROBERT BOSCH ENGINEERING & BUSINESS SOLUTIONS VN Co., Ltd.",
+      "shortname": "Bosch 3",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "0/1"
+    },
+    {
+      "fullname": "Công ty TNHH MTV Phương Đông Linh Hoạt Việt Nam (East Agile - EA)",
+      "shortname": "EA - PĐLH - Phương Đông Linh Hoạt (East Agile)",
+      "registerInfo": "0/9",
+      "acceptanceInfo": "2/3"
+    },
+    {
+      "fullname": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
+      "shortname": "Fsoft - HCM",
+      "registerInfo": "61/150",
+      "acceptanceInfo": "30/50"
+    },
+    {
+      "fullname": "Công ty TNHH Công nghệ Thông tin Aureole",
+      "shortname": "AIT - Aureole - Mitani",
+      "registerInfo": "2/9",
+      "acceptanceInfo": "2/3"
+    },
+    {
+      "fullname": "Công ty Cổ Phần Công Nghệ Và Ứng Dụng DSV (Designveloper)",
+      "shortname": "DSV - Designveloper",
+      "registerInfo": "48/60",
+      "acceptanceInfo": "4/20"
+    },
+    {
+      "fullname": "Công ty Cổ phần Công nghệ GEEK Up",
+      "shortname": "GEEK Up",
+      "registerInfo": "60/60",
+      "acceptanceInfo": "0/20"
+    },
+    {
+      "fullname": "Công ty Cổ Phần Cohota",
+      "shortname": "Cohota",
+      "registerInfo": "29/30",
+      "acceptanceInfo": "1/10"
+    },
+    {
+      "fullname": "Tập đoàn Công nghiệp – Viễn thông Quân đội",
+      "shortname": "Viettel - VTNet",
+      "registerInfo": "1/1",
+      "acceptanceInfo": "0/1"
+    },
+    {
+      "fullname": "CÔNG TY CỔ PHẦN GIHOT",
+      "shortname": "GIHOT",
+      "registerInfo": "11/15",
+      "acceptanceInfo": "3/5"
+    },
+    {
+      "fullname": "HOLISTICS SOFTWARE (HS)",
+      "shortname": "HS - Holistics Software",
+      "registerInfo": "8/9",
+      "acceptanceInfo": "1/3"
+    },
+    {
+      "fullname": "Công ty TNHH Cube System Việt Nam (CS)",
+      "shortname": "CS - Cube System",
+      "registerInfo": "13/21",
+      "acceptanceInfo": "3/7"
+    },
+    {
+      "fullname": "Viễn Thông TP.HCM (VNPT.TPHCM) - Tập đoàn Bưu chính Viễn thông Việt Nam",
+      "shortname": "VNPT - TPHCM",
+      "registerInfo": "40/60",
+      "acceptanceInfo": "9/20"
+    },
+    {
+      "fullname": "Công ty Cổ phần Bản Viên (Ban Vien Corporation) - BV",
+      "shortname": "BV - Bản Viên",
+      "registerInfo": "1/21",
+      "acceptanceInfo": "4/7"
+    },
+    {
+      "fullname": "Công ty cổ phần công nghệ cao ALTISSS",
+      "shortname": "ATL - ALTISSS",
+      "registerInfo": "12/12",
+      "acceptanceInfo": "0/4"
+    },
+    {
+      "fullname": "Công Ty Cổ Phần R2S",
+      "shortname": "R2S",
+      "registerInfo": "26/30",
+      "acceptanceInfo": "1/10"
+    },
+    {
+      "fullname": "CÔNG TY CỔ PHẦN SUN.STUDIO (SS)",
+      "shortname": "SS (SUN.STUDIO - SUNDATA)",
+      "registerInfo": "15/15",
+      "acceptanceInfo": "3/5"
+    },
+    {
+      "fullname": "Công ty TNHH Công nghệ Marvell VN",
+      "shortname": "MV - Marvell",
+      "registerInfo": "45/45",
+      "acceptanceInfo": "0/15"
+    },
+    {
+      "fullname": "Bosch 2 - CÔNG TY TNHH BOSCH GLOBAL SOFTWARE TECHNOLOGIES",
+      "shortname": "Bosch 2",
+      "registerInfo": "1/1",
+      "acceptanceInfo": "0/1"
+    },
+    {
+      "fullname": "Công ty Cổ phần DGV Digital",
+      "shortname": "DGV Digital",
+      "registerInfo": "1/1",
+      "acceptanceInfo": "0/1"
+    },
+    {
+      "fullname": "CÔNG TY TNHH UGOTECHS",
+      "shortname": "UGO - UGOTECHS",
+      "registerInfo": "30/30",
+      "acceptanceInfo": "0/10"
+    },
+    {
+      "fullname": "CÔNG TY CỔ PHẦN KỸ THUẬT ĐIỆN TOÁN BÁCH KHOA",
+      "shortname": "DTBK - ĐTBK - Điện toán Bách Khoa",
+      "registerInfo": "25/27",
+      "acceptanceInfo": "2/9"
+    },
+    {
+      "fullname": "CÔNG TY TNHH AMPERE COMPUTING VIỆT NAM",
+      "shortname": "AC - AMPERE COMPUTING",
+      "registerInfo": "8/18",
+      "acceptanceInfo": "2/6"
+    },
+    {
+      "fullname": "Công ty TNHH TecAlliance Việt Nam (TA)",
+      "shortname": "TA - TecAlliance",
+      "registerInfo": "6/6",
+      "acceptanceInfo": "1/2"
+    },
+    {
+      "fullname": "Công ty Cổ phần IVS",
+      "shortname": "IVS - IndiviSys - Indivisual System",
+      "registerInfo": "33/45",
+      "acceptanceInfo": "13/15"
+    },
+    {
+      "fullname": "Bosch 1 - CÔNG TY TNHH ROBERT BOSCH ENGINEERING AND BUSINESS SOLUTIONS VIỆT NAM",
+      "shortname": "Bosch 1",
+      "registerInfo": "1/1",
+      "acceptanceInfo": "0/1"
+    },
+    {
+      "fullname": "CÔNG TY TNHH ROCKSHIP (RS)",
+      "shortname": "RS - Rockship",
+      "registerInfo": "12/12",
+      "acceptanceInfo": "3/4"
+    },
+    {
+      "fullname": "CÔNG TY CỔ PHẦN TECHLAB",
+      "shortname": "TECHLAB",
+      "registerInfo": "11/12",
+      "acceptanceInfo": "2/4"
+    },
+    {
+      "fullname": "Công ty TNHH Giải pháp Phần mềm Tường Minh Bình Định",
+      "shortname": "TMA - Bình Định",
+      "registerInfo": "20/60",
+      "acceptanceInfo": "11/20"
+    },
+    {
+      "fullname": "Công ty TNHH OpenWay Việt Nam (OW)",
+      "shortname": "OW - OpenWay",
+      "registerInfo": "6/12",
+      "acceptanceInfo": "2/4"
+    },
+    {
+      "fullname": "CÔNG TY TNHH ZIGEXN VENTURA",
+      "shortname": "ZV - ZIGExN VeNtura",
+      "registerInfo": "29/30",
+      "acceptanceInfo": "0/10"
+    },
+    {
+      "fullname": "CÔNG TY CP GIẢI PHÁP CÔNG NGHỆ TRUYỀN THÔNG ĐA PHƯƠNG TIỆN SÁNG KIẾN (IMT SOLUTIONS)",
+      "shortname": "IMT Solutions",
+      "registerInfo": "13/15",
+      "acceptanceInfo": "2/5"
+    },
+    {
+      "fullname": "Công ty TNHH BOS Semiconductors Vietnam",
+      "shortname": "BOS",
+      "registerInfo": "30/30",
+      "acceptanceInfo": "0/10"
+    },
+    {
+      "fullname": "CÔNG TY CỔ PHẦN KHOA HỌC KỸ THUẬT PHƯỢNG HẢI",
+      "shortname": "PH - Phượng Hải",
+      "registerInfo": "3/3",
+      "acceptanceInfo": "0/1"
+    },
+    {
+      "fullname": "CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ NINA",
+      "shortname": "NINA",
+      "registerInfo": "1/2",
+      "acceptanceInfo": "0/2"
+    },
+    {
+      "fullname": "CÔNG TY TNHH R&I LABS",
+      "shortname": "R&I Labs",
+      "registerInfo": "28/30",
+      "acceptanceInfo": "0/10"
+    },
+    {
+      "fullname": "CÔNG TY TNHH TRUINOVATE",
+      "shortname": "TRUINOVATE",
+      "registerInfo": "10/0",
+      "acceptanceInfo": "0/4"
+    },
+    {
+      "fullname": "CÔNG TY CỔ PHẦN GIẢI PHÁP VTECH",
+      "shortname": "VTECH",
+      "registerInfo": "6/6",
+      "acceptanceInfo": "0/2"
+    },
+    {
+      "fullname": "CÔNG TY TNHH DATALOGIC VIỆT NAM",
+      "shortname": "Datalogic",
+      "registerInfo": "10/12",
+      "acceptanceInfo": "3/4"
+    },
+    {
+      "fullname": "CÔNG TY TNHH E-CQURITY VIỆT NAM",
+      "shortname": "ECQ (E-CQURITY)",
+      "registerInfo": "1/1",
+      "acceptanceInfo": "0/1"
+    },
+    {
+      "fullname": "Công ty TNHH Công Nghệ Phần Mềm DayOne",
+      "shortname": "DayOne",
+      "registerInfo": "4/6",
+      "acceptanceInfo": "1/2"
+    },
+    {
+      "fullname": "Công ty TNHH Tư vấn và Phát triển Giáo dục INNEDU",
+      "shortname": "InnEdu",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "0/1"
+    },
+    {
+      "fullname": "Chi nhánh Công ty TNHH Phần mềm FPT Hồ Chí Minh tại Nha Trang, Tập đoàn FPT",
+      "shortname": "Fsoft - NT (Nha Trang)",
+      "registerInfo": "8/60",
+      "acceptanceInfo": "14/20"
+    },
+    {
+      "fullname": "VĂN PHÒNG ĐẠI DIỆN CÔNG TY CỔ PHẦN TRỰC TUYẾN GOSU",
+      "shortname": "GOSU",
+      "registerInfo": "11/18",
+      "acceptanceInfo": "3/6"
+    },
+    {
+      "fullname": "CÔNG TY CỔ PHẦN GOLDEN OWL SOLUTIONS",
+      "shortname": "GOS - Golden Owl Solutions",
+      "registerInfo": "10/12",
+      "acceptanceInfo": "0/4"
+    },
+    {
+      "fullname": "Công ty TNHH Bioturing Việt Nam",
+      "shortname": "BioTuring",
+      "registerInfo": "12/15",
+      "acceptanceInfo": "0/5"
+    },
+    {
+      "fullname": "CÔNG TY TNHH HỆ THỐNG PHẦN MỀM VIỆT TIN",
+      "shortname": "IA - Infoasia",
+      "registerInfo": "1/2",
+      "acceptanceInfo": "1/2"
+    },
+    {
+      "fullname": "Công ty TNHH TM & DV Công Nghệ Xuân Cường",
+      "shortname": "XC - Xuân Cường",
+      "registerInfo": "1/1",
+      "acceptanceInfo": "0/1"
+    },
+    {
+      "fullname": "Công Ty TNHH Kinh Doanh và Cung Cấp Giải Pháp Công Nghệ EyeCode",
+      "shortname": "EC - EyeCode",
+      "registerInfo": "2/30",
+      "acceptanceInfo": "5/10"
+    },
+    {
+      "fullname": "CÔNG TY TNHH HỌC VIỆN UPSKILL",
+      "shortname": "US - UpSkill",
+      "registerInfo": "2/2",
+      "acceptanceInfo": "0/2"
+    },
+    {
+      "fullname": "CÔNG TY CỔ PHẦN GIẢI TRÍ VÀ THỂ THAO ĐIỆN TỬ VIỆT NAM",
+      "shortname": "Garena",
+      "registerInfo": "9/9",
+      "acceptanceInfo": "0/3"
+    },
+    {
+      "fullname": "Phenomics Laboratory",
+      "shortname": "PL - Phenomics Laboratory",
+      "registerInfo": "2/2",
+      "acceptanceInfo": "0/2"
+    },
+    {
+      "fullname": "CÔNG TY TNHH NOBIWARE",
+      "shortname": "NBW - Nobiware",
+      "registerInfo": "8/12",
+      "acceptanceInfo": "2/4"
+    },
+    {
+      "fullname": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ PRIME - LABO",
+      "shortname": "PL - Prime Labo",
+      "registerInfo": "15/15",
+      "acceptanceInfo": "2/5"
+    },
+    {
+      "fullname": "Công ty TNHH Trường Phước Long An",
+      "shortname": "TPLA - Trường Phước Long An",
+      "registerInfo": "1/1",
+      "acceptanceInfo": "0/1"
+    },
+    {
+      "fullname": "CÔNG TY CỔ PHẦN JK TECHNOLOGIES VIETNAM",
+      "shortname": "JK",
+      "registerInfo": "7/9",
+      "acceptanceInfo": "2/3"
+    },
+    {
+      "fullname": "CÔNG TY CỔ PHẦN GIẢI PHÁP TỔNG THỂ KỶ NGUYÊN SỐ",
+      "shortname": "KNS - Kỷ Nguyên Số",
+      "registerInfo": "17/18",
+      "acceptanceInfo": "1/6"
+    },
+    {
+      "fullname": "Công Ty TNHH KYONS",
+      "shortname": "KYONS",
+      "registerInfo": "1/1",
+      "acceptanceInfo": "0/1"
+    },
+    {
+      "fullname": "Công ty TNHH Wishare",
+      "shortname": "Wishare",
+      "registerInfo": "1/1",
+      "acceptanceInfo": "0/1"
+    },
+    {
+      "fullname": "CÔNG TY CỔ PHẦN CÔNG NGHỆ APPS CYCLONE (Công ty TNHH Giải Pháp Di Động Ứng Dụng Lốc Xoáy)",
+      "shortname": "ACL - AppsCyclone (Lốc Xoáy)",
+      "registerInfo": "13/30",
+      "acceptanceInfo": "0/10"
+    },
+    {
+      "fullname": "Công ty TNHH Công nghệ & Dịch vụ BeOne",
+      "shortname": "BO - BeOne",
+      "registerInfo": "8/9",
+      "acceptanceInfo": "2/3"
+    },
+    {
+      "fullname": "Công ty TNHH Công Nghệ Phần Mềm Jayace",
+      "shortname": "Jayace",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "0/1"
+    }
+  ],
+  "allCompaniesDetails": [
+    {
+      "fullname": "Công ty TNHH HORUSOFTACEAE",
+      "shortname": "Horus",
+      "registerInfo": "2/30",
+      "acceptanceInfo": "10/10",
+      "isAvailable": false
+    },
+    {
+      "fullname": "VINOVA PTE. LTD.",
+      "shortname": "Vinova",
+      "registerInfo": "1/1",
+      "acceptanceInfo": "0/1",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Công ty TNHH Sorimachi Việt Nam (SRMC VN)",
+      "shortname": "SRMC VN - Sorimachi VN",
+      "registerInfo": "2/12",
+      "acceptanceInfo": "4/4",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Bosch 3 - ROBERT BOSCH ENGINEERING & BUSINESS SOLUTIONS VN Co., Ltd.",
+      "shortname": "Bosch 3",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "0/1",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Công ty TNHH MTV Phương Đông Linh Hoạt Việt Nam (East Agile - EA)",
+      "shortname": "EA - PĐLH - Phương Đông Linh Hoạt (East Agile)",
+      "registerInfo": "0/9",
+      "acceptanceInfo": "2/3",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Công ty Cổ phần VNG - Verichains",
+      "shortname": "VNG - Verichains",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "CÔNG TY TNHH KMS TECHNOLOGY VIỆT NAM",
+      "shortname": "KMS",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
+      "shortname": "Fsoft - HCM",
+      "registerInfo": "61/150",
+      "acceptanceInfo": "30/50",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Công ty TNHH Công nghệ Thông tin Aureole",
+      "shortname": "AIT - Aureole - Mitani",
+      "registerInfo": "2/9",
+      "acceptanceInfo": "2/3",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Khoa Khoa học và Kỹ thuật Máy tính - Trường Đại học Bách Khoa - ĐHQG TPHCM (CSE)",
+      "shortname": "CSE",
+      "registerInfo": "0/0",
+      "acceptanceInfo": "0/0",
+      "isAvailable": false
+    },
+    {
+      "fullname": "NUS TECHNOLOGY",
+      "shortname": "NUS Technology",
+      "registerInfo": "3/15",
+      "acceptanceInfo": "5/5",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Công ty TNHH Gameloft",
+      "shortname": "GL - Gameloft",
+      "registerInfo": "0/0",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Công ty Cổ Phần Công Nghệ Và Ứng Dụng DSV (Designveloper)",
+      "shortname": "DSV - Designveloper",
+      "registerInfo": "48/60",
+      "acceptanceInfo": "4/20",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Công ty TNHH Kyanon Digital",
+      "shortname": "KYANON - Kỳ Anh",
+      "registerInfo": "0/2",
+      "acceptanceInfo": "2/2",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Công ty Cổ phần Công nghệ GEEK Up",
+      "shortname": "GEEK Up",
+      "registerInfo": "60/60",
+      "acceptanceInfo": "0/20",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Công ty TNHH Giải pháp Cloud Nine (CN)",
+      "shortname": "CN - Cloud Nine",
+      "registerInfo": "4/9",
+      "acceptanceInfo": "3/3",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Công ty Cổ Phần Cohota",
+      "shortname": "Cohota",
+      "registerInfo": "29/30",
+      "acceptanceInfo": "1/10",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Tập đoàn Công nghiệp – Viễn thông Quân đội",
+      "shortname": "Viettel - VTNet",
+      "registerInfo": "1/1",
+      "acceptanceInfo": "0/1",
+      "isAvailable": true
+    },
+    {
+      "fullname": "CÔNG TY CỔ PHẦN GIHOT",
+      "shortname": "GIHOT",
+      "registerInfo": "11/15",
+      "acceptanceInfo": "3/5",
+      "isAvailable": true
+    },
+    {
+      "fullname": "HOLISTICS SOFTWARE (HS)",
+      "shortname": "HS - Holistics Software",
+      "registerInfo": "8/9",
+      "acceptanceInfo": "1/3",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Công ty TNHH Cube System Việt Nam (CS)",
+      "shortname": "CS - Cube System",
+      "registerInfo": "13/21",
+      "acceptanceInfo": "3/7",
+      "isAvailable": true
+    },
+    {
+      "fullname": "AI POWER CO.,LTD",
+      "shortname": "AI Power",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Viễn Thông TP.HCM (VNPT.TPHCM) - Tập đoàn Bưu chính Viễn thông Việt Nam",
+      "shortname": "VNPT - TPHCM",
+      "registerInfo": "40/60",
+      "acceptanceInfo": "9/20",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Công ty Cổ phần Bản Viên (Ban Vien Corporation) - BV",
+      "shortname": "BV - Bản Viên",
+      "registerInfo": "1/21",
+      "acceptanceInfo": "4/7",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Công ty cổ phần công nghệ cao ALTISSS",
+      "shortname": "ATL - ALTISSS",
+      "registerInfo": "12/12",
+      "acceptanceInfo": "0/4",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Công Ty Cổ Phần R2S",
+      "shortname": "R2S",
+      "registerInfo": "26/30",
+      "acceptanceInfo": "1/10",
+      "isAvailable": true
+    },
+    {
+      "fullname": "CÔNG TY CỔ PHẦN SUN.STUDIO (SS)",
+      "shortname": "SS (SUN.STUDIO - SUNDATA)",
+      "registerInfo": "15/15",
+      "acceptanceInfo": "3/5",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Công ty TNHH Công nghệ Marvell VN",
+      "shortname": "MV - Marvell",
+      "registerInfo": "45/45",
+      "acceptanceInfo": "0/15",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Bosch 2 - CÔNG TY TNHH BOSCH GLOBAL SOFTWARE TECHNOLOGIES",
+      "shortname": "Bosch 2",
+      "registerInfo": "1/1",
+      "acceptanceInfo": "0/1",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Công ty Cổ phần DGV Digital",
+      "shortname": "DGV Digital",
+      "registerInfo": "1/1",
+      "acceptanceInfo": "0/1",
+      "isAvailable": true
+    },
+    {
+      "fullname": "CÔNG TY TNHH UGOTECHS",
+      "shortname": "UGO - UGOTECHS",
+      "registerInfo": "30/30",
+      "acceptanceInfo": "0/10",
+      "isAvailable": true
+    },
+    {
+      "fullname": "CÔNG TY CỔ PHẦN KỸ THUẬT ĐIỆN TOÁN BÁCH KHOA",
+      "shortname": "DTBK - ĐTBK - Điện toán Bách Khoa",
+      "registerInfo": "25/27",
+      "acceptanceInfo": "2/9",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Công ty TNHH SiGlaz Việt Nam (SiGlazVN Ltd.)",
+      "shortname": "SiGlaz",
+      "registerInfo": "8/12",
+      "acceptanceInfo": "4/4",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Công ty TNHH atWare Việt Nam",
+      "shortname": "AW - atWare",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "CÔNG TY TNHH AMPERE COMPUTING VIỆT NAM",
+      "shortname": "AC - AMPERE COMPUTING",
+      "registerInfo": "8/18",
+      "acceptanceInfo": "2/6",
+      "isAvailable": true
+    },
+    {
+      "fullname": "CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ VGS",
+      "shortname": "VGS - VGAMES",
+      "registerInfo": "0/12",
+      "acceptanceInfo": "4/4",
+      "isAvailable": false
+    },
+    {
+      "fullname": "CÔNG TY TNHH VIEROBOT",
+      "shortname": "VIEROBOT",
+      "registerInfo": "1/12",
+      "acceptanceInfo": "4/4",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Công ty TNHH TecAlliance Việt Nam (TA)",
+      "shortname": "TA - TecAlliance",
+      "registerInfo": "6/6",
+      "acceptanceInfo": "1/2",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Công ty TNHH Noventiq Việt Nam",
+      "shortname": "NVT - NOVENTIQ",
+      "registerInfo": "0/2",
+      "acceptanceInfo": "2/2",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Công ty Cổ phần IVS",
+      "shortname": "IVS - IndiviSys - Indivisual System",
+      "registerInfo": "33/45",
+      "acceptanceInfo": "13/15",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Bosch 1 - CÔNG TY TNHH ROBERT BOSCH ENGINEERING AND BUSINESS SOLUTIONS VIỆT NAM",
+      "shortname": "Bosch 1",
+      "registerInfo": "1/1",
+      "acceptanceInfo": "0/1",
+      "isAvailable": true
+    },
+    {
+      "fullname": "CÔNG TY TNHH ROCKSHIP (RS)",
+      "shortname": "RS - Rockship",
+      "registerInfo": "12/12",
+      "acceptanceInfo": "3/4",
+      "isAvailable": true
+    },
+    {
+      "fullname": "CÔNG TY CỔ PHẦN TECHLAB",
+      "shortname": "TECHLAB",
+      "registerInfo": "11/12",
+      "acceptanceInfo": "2/4",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Công ty TNHH M2 VIETNAM",
+      "shortname": "M2 Vietnam",
+      "registerInfo": "0/0",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Công ty TNHH Giải pháp Phần mềm Tường Minh Bình Định",
+      "shortname": "TMA - Bình Định",
+      "registerInfo": "20/60",
+      "acceptanceInfo": "11/20",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Công ty TNHH Công nghệ Nền tảng BK",
+      "shortname": "CNNT.BK",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Công ty TNHH OpenWay Việt Nam (OW)",
+      "shortname": "OW - OpenWay",
+      "registerInfo": "6/12",
+      "acceptanceInfo": "2/4",
+      "isAvailable": true
+    },
+    {
+      "fullname": "TNS - Nhật Bản",
+      "shortname": "TNS - Nhật Bản",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Sorimachi - Nhật Bản (SRMC JP)",
+      "shortname": "SRMC JP - Sorimachi Nhật Bản",
+      "registerInfo": "0/2",
+      "acceptanceInfo": "2/2",
+      "isAvailable": false
+    },
+    {
+      "fullname": "CÔNG TY TNHH ZIGEXN VENTURA",
+      "shortname": "ZV - ZIGExN VeNtura",
+      "registerInfo": "29/30",
+      "acceptanceInfo": "0/10",
+      "isAvailable": true
+    },
+    {
+      "fullname": "CÔNG TY CP GIẢI PHÁP CÔNG NGHỆ TRUYỀN THÔNG ĐA PHƯƠNG TIỆN SÁNG KIẾN (IMT SOLUTIONS)",
+      "shortname": "IMT Solutions",
+      "registerInfo": "13/15",
+      "acceptanceInfo": "2/5",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Công ty TNHH Phần mềm FPT Hồ Chí Minh - Tập đoàn FPT",
+      "shortname": "Fsoft - Japan",
+      "registerInfo": "0/6",
+      "acceptanceInfo": "2/2",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Công ty TNHH BOS Semiconductors Vietnam",
+      "shortname": "BOS",
+      "registerInfo": "30/30",
+      "acceptanceInfo": "0/10",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Công ty TNHH Apollogix (APLG)",
+      "shortname": "APLG - Apollogix",
+      "registerInfo": "0/18",
+      "acceptanceInfo": "6/6",
+      "isAvailable": false
+    },
+    {
+      "fullname": "CÔNG TY CỔ PHẦN KHOA HỌC KỸ THUẬT PHƯỢNG HẢI",
+      "shortname": "PH - Phượng Hải",
+      "registerInfo": "3/3",
+      "acceptanceInfo": "0/1",
+      "isAvailable": true
+    },
+    {
+      "fullname": "CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ NINA",
+      "shortname": "NINA",
+      "registerInfo": "1/2",
+      "acceptanceInfo": "0/2",
+      "isAvailable": true
+    },
+    {
+      "fullname": "CÔNG TY CP ỨNG DỤNG DI ĐỘNG XANH",
+      "shortname": "DDX - DĐX - DI ĐỘNG XANH - TANCA",
+      "registerInfo": "0/2",
+      "acceptanceInfo": "2/2",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Revobricks LLC (RVB)",
+      "shortname": "RVB - Revobricks",
+      "registerInfo": "0/18",
+      "acceptanceInfo": "6/6",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Công ty TNHH QuestX",
+      "shortname": "QX - QuestX",
+      "registerInfo": "0/0",
+      "acceptanceInfo": "2/2",
+      "isAvailable": false
+    },
+    {
+      "fullname": "CÔNG TY TNHH R&I LABS",
+      "shortname": "R&I Labs",
+      "registerInfo": "28/30",
+      "acceptanceInfo": "0/10",
+      "isAvailable": true
+    },
+    {
+      "fullname": "CÔNG TY TNHH TRUINOVATE",
+      "shortname": "TRUINOVATE",
+      "registerInfo": "10/0",
+      "acceptanceInfo": "0/4",
+      "isAvailable": true
+    },
+    {
+      "fullname": "CÔNG TY CỔ PHẦN GIẢI PHÁP VTECH",
+      "shortname": "VTECH",
+      "registerInfo": "6/6",
+      "acceptanceInfo": "0/2",
+      "isAvailable": true
+    },
+    {
+      "fullname": "CÔNG TY TNHH DATALOGIC VIỆT NAM",
+      "shortname": "Datalogic",
+      "registerInfo": "10/12",
+      "acceptanceInfo": "3/4",
+      "isAvailable": true
+    },
+    {
+      "fullname": "CÔNG TY TNHH E-CQURITY VIỆT NAM",
+      "shortname": "ECQ (E-CQURITY)",
+      "registerInfo": "1/1",
+      "acceptanceInfo": "0/1",
+      "isAvailable": true
+    },
+    {
+      "fullname": "JMACSOFT Corp. (Nhật Bản)",
+      "shortname": "JMACSOFT - Nhật Bản",
+      "registerInfo": "0/2",
+      "acceptanceInfo": "2/2",
+      "isAvailable": false
+    },
+    {
+      "fullname": "PNH Co., Ltd. (Nhật Bản)",
+      "shortname": "PNH - Nhật Bản",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "MOBIUS Co., Ltd. (Nhật Bản)",
+      "shortname": "Mobius - Nhật Bản",
+      "registerInfo": "0/2",
+      "acceptanceInfo": "2/2",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Công ty TNHH Công Nghệ Phần Mềm DayOne",
+      "shortname": "DayOne",
+      "registerInfo": "4/6",
+      "acceptanceInfo": "1/2",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Phòng thí nghiệm nghiên cứu về nước khu vực châu Á (CARE)",
+      "shortname": "CARE - BK.HCM",
+      "registerInfo": "0/3",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Trung tâm An toàn thông tin VNPT -  Chi nhánh Công ty Công nghệ thông tin VNPT (VNPT-CI)",
+      "shortname": "VNPT-CI (VNPT Cyber Immunity)",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Công ty cổ phần Công nghệ Swantech (ST)",
+      "shortname": "ST - Swantech",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Công ty TNHH SENSE (SS)",
+      "shortname": "SS - SENSE",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "CÔNG TY TNHH SIEMENS HEALTHCARE (SM)",
+      "shortname": "SM - SIEMENS",
+      "registerInfo": "0/3",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Trung tâm Công nghệ thông tin thành phố Huế (HueCIT)",
+      "shortname": "HueCIT",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "DHL supply chain",
+      "shortname": "DHL",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "CÔNG TY CỔ PHẦN CÔNG NGHỆ SÀI GÒN MIO",
+      "shortname": "SGM - SaigonMio - Sài Gòn Mio",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "CÔNG TY TNHH CÔNG NGHỆ PAX VIỆT NAM",
+      "shortname": "PAX",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Công ty TNHH Cloudjet Solutions",
+      "shortname": "CJS - Cloudjet Solutions",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Công ty TNHH TMDV ORCO – O(log n)",
+      "shortname": "Ologn",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Ngân hàng TMCP Phát triển TPHCM",
+      "shortname": "HDBank",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Công ty TNHH Tư vấn và Phát triển Giáo dục INNEDU",
+      "shortname": "InnEdu",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "0/1",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Chi nhánh Công ty TNHH Phần mềm FPT Hồ Chí Minh tại Nha Trang, Tập đoàn FPT",
+      "shortname": "Fsoft - NT (Nha Trang)",
+      "registerInfo": "8/60",
+      "acceptanceInfo": "14/20",
+      "isAvailable": true
+    },
+    {
+      "fullname": "CÔNG TY CỔ PHẦN NIXXIS VIETNAM",
+      "shortname": "Nixxis",
+      "registerInfo": "0/6",
+      "acceptanceInfo": "2/2",
+      "isAvailable": false
+    },
+    {
+      "fullname": "CÔNG TY TNHH TẦM NHÌN SÁNG TẠO CÔNG NGHỆ",
+      "shortname": "IVT - Invitech",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "VĂN PHÒNG ĐẠI DIỆN CÔNG TY CỔ PHẦN TRỰC TUYẾN GOSU",
+      "shortname": "GOSU",
+      "registerInfo": "11/18",
+      "acceptanceInfo": "3/6",
+      "isAvailable": true
+    },
+    {
+      "fullname": "CÔNG TY CỔ PHẦN GOLDEN OWL SOLUTIONS",
+      "shortname": "GOS - Golden Owl Solutions",
+      "registerInfo": "10/12",
+      "acceptanceInfo": "0/4",
+      "isAvailable": true
+    },
+    {
+      "fullname": "CÔNG TY CỔ PHẦN GIẢI PHÁP CÔNG NGHỆ HTSC",
+      "shortname": "HTSC",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Công ty TNHH Bioturing Việt Nam",
+      "shortname": "BioTuring",
+      "registerInfo": "12/15",
+      "acceptanceInfo": "0/5",
+      "isAvailable": true
+    },
+    {
+      "fullname": "RISENS GROUP JOINT STOCK COMPANY",
+      "shortname": "RISENS",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "CÔNG TY TNHH HỆ THỐNG PHẦN MỀM VIỆT TIN",
+      "shortname": "IA - Infoasia",
+      "registerInfo": "1/2",
+      "acceptanceInfo": "1/2",
+      "isAvailable": true
+    },
+    {
+      "fullname": "COMPREDEV SOLUTIONS COMPANY LIMITED",
+      "shortname": "CPD - COMPREDEV",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Công ty Cổ phần Phát triển Kỹ thuật & Thương mại Tân Đức (TD&T)",
+      "shortname": "TD - Tân Đức",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Công ty TNHH TM & DV Công Nghệ Xuân Cường",
+      "shortname": "XC - Xuân Cường",
+      "registerInfo": "1/1",
+      "acceptanceInfo": "0/1",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Bosch - Công ty TNHH Bosch Global Software Technologies",
+      "shortname": "Bosch",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Công Ty TNHH Kinh Doanh và Cung Cấp Giải Pháp Công Nghệ EyeCode",
+      "shortname": "EC - EyeCode",
+      "registerInfo": "2/30",
+      "acceptanceInfo": "5/10",
+      "isAvailable": true
+    },
+    {
+      "fullname": "CÔNG TY TNHH HỌC VIỆN UPSKILL",
+      "shortname": "US - UpSkill",
+      "registerInfo": "2/2",
+      "acceptanceInfo": "0/2",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Cty CP Vận tải và Thuê tàu biển Việt Nam – Chi nhánh Trung tâm e-Logistic và Công nghệ Thông tin Hàng hải Việt Xanh (Viet Green Center)",
+      "shortname": "VG - VTC - Vitrasnchart - Viet Green Center",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "CÔNG TY CỔ PHẦN GIẢI TRÍ VÀ THỂ THAO ĐIỆN TỬ VIỆT NAM",
+      "shortname": "Garena",
+      "registerInfo": "9/9",
+      "acceptanceInfo": "0/3",
+      "isAvailable": true
+    },
+    {
+      "fullname": "ODH Technology Company Limited",
+      "shortname": "ODH",
+      "registerInfo": "0/2",
+      "acceptanceInfo": "2/2",
+      "isAvailable": false
+    },
+    {
+      "fullname": "CTY CP CÔNG NGHỆ GIẢI PHÁP THI THIÊN",
+      "shortname": "TT - Thi Thiên",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Công ty TNHH Phần mềm FPT Miền Trung - Tập đoàn FPT",
+      "shortname": "Fsoft - MT (Miền Trung)",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Phenomics Laboratory",
+      "shortname": "PL - Phenomics Laboratory",
+      "registerInfo": "2/2",
+      "acceptanceInfo": "0/2",
+      "isAvailable": true
+    },
+    {
+      "fullname": "CÔNG TY TNHH NOBIWARE",
+      "shortname": "NBW - Nobiware",
+      "registerInfo": "8/12",
+      "acceptanceInfo": "2/4",
+      "isAvailable": true
+    },
+    {
+      "fullname": "CÔNG TY TNHH MỘT THÀNH VIÊN CÔNG NGHỆ PRIME - LABO",
+      "shortname": "PL - Prime Labo",
+      "registerInfo": "15/15",
+      "acceptanceInfo": "2/5",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Công ty TNHH Trường Phước Long An",
+      "shortname": "TPLA - Trường Phước Long An",
+      "registerInfo": "1/1",
+      "acceptanceInfo": "0/1",
+      "isAvailable": true
+    },
+    {
+      "fullname": "CÔNG TY CỔ PHẦN JK TECHNOLOGIES VIETNAM",
+      "shortname": "JK",
+      "registerInfo": "7/9",
+      "acceptanceInfo": "2/3",
+      "isAvailable": true
+    },
+    {
+      "fullname": "CÔNG TY CỔ PHẦN GIẢI PHÁP TỔNG THỂ KỶ NGUYÊN SỐ",
+      "shortname": "KNS - Kỷ Nguyên Số",
+      "registerInfo": "17/18",
+      "acceptanceInfo": "1/6",
+      "isAvailable": true
+    },
+    {
+      "fullname": "CÔNG TY TNHH DỊCH VỤ GIẢI PHÁP MÊ KÔNG (Gọi tắt là MKS)",
+      "shortname": "MKS - MKSOL",
+      "registerInfo": "0/2",
+      "acceptanceInfo": "2/2",
+      "isAvailable": false
+    },
+    {
+      "fullname": "Công Ty TNHH KYONS",
+      "shortname": "KYONS",
+      "registerInfo": "1/1",
+      "acceptanceInfo": "0/1",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Công ty TNHH Wishare",
+      "shortname": "Wishare",
+      "registerInfo": "1/1",
+      "acceptanceInfo": "0/1",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Công Ty TNHH Bubobot",
+      "shortname": "BBB - Bubobot",
+      "registerInfo": "0/2",
+      "acceptanceInfo": "2/2",
+      "isAvailable": false
+    },
+    {
+      "fullname": "CÔNG TY CỔ PHẦN CÔNG NGHỆ APPS CYCLONE (Công ty TNHH Giải Pháp Di Động Ứng Dụng Lốc Xoáy)",
+      "shortname": "ACL - AppsCyclone (Lốc Xoáy)",
+      "registerInfo": "13/30",
+      "acceptanceInfo": "0/10",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Công ty TNHH Công nghệ & Dịch vụ BeOne",
+      "shortname": "BO - BeOne",
+      "registerInfo": "8/9",
+      "acceptanceInfo": "2/3",
+      "isAvailable": true
+    },
+    {
+      "fullname": "Công ty TNHH Công Nghệ Phần Mềm Jayace",
+      "shortname": "Jayace",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "0/1",
+      "isAvailable": true
+    },
+    {
+      "fullname": "CÔNG TY TNHH INOVAETION",
+      "shortname": "Inovaetion",
+      "registerInfo": "0/1",
+      "acceptanceInfo": "1/1",
+      "isAvailable": false
+    }
+  ],
+  "acceptanceStats": {
+    "totalCompanies": 115,
+    "validCompanyCount": 115,
+    "totalStudentAccepted": 238,
+    "totalMaxAcceptedStudent": 505,
+    "totalStudentRegister": 811,
+    "totalMaxRegister": 1359,
+    "acceptanceRatio": "0.4713",
+    "registerRatio": "0.5968",
+    "acceptancePercentage": "47.13%",
+    "registerPercentage": "59.68%",
+    "summary": "Tổng số công ty: 115 | Tỷ lệ chấp nhận: 47.13% | Tỷ lệ đăng ký: 59.68%"
+  },
+  "lastUpdated": "2025-05-22T13:16:37.907Z"
+}

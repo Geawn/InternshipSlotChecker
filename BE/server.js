@@ -5,6 +5,40 @@ const PORT = process.env.PORT || 3000;
 
 const BASE_URL = 'https://internship.cse.hcmut.edu.vn/home/company';
 
+const fs = require('fs');
+const path = require('path');
+
+async function saveToJsonFile(data) {
+    filename = "companies.json";
+    try {
+        const filePath = path.join(__dirname, filename);
+        
+        const jsonData = JSON.stringify(data, null, 2);
+        
+        await fs.promises.writeFile(filePath, jsonData, 'utf8');
+        
+        return true;
+    } catch (error) {
+        return false;
+    }
+}
+
+async function readFromJsonFile() {
+    filename = "companies.json";
+    try {
+        const filePath = path.join(__dirname, filename);
+        
+        const jsonData = await fs.promises.readFile(filePath, 'utf8');
+        
+        const data = JSON.parse(jsonData);
+        
+        return data;
+    } catch (error) {
+        return false; 
+    }
+}
+
+
 // Middleware để xử lý CORS và JSON
 app.use(express.json());
 app.use((req, res, next) => {
@@ -93,6 +127,16 @@ async function calculateAcceptanceRatio() {
 // Endpoint chính
 app.get('/api/companies', async (req, res) => {
     try {
+        const data = await readFromJsonFile();
+        const lastUpdated = new Date(data.lastUpdated);
+        const now = new Date();
+        const diffHours = (now - lastUpdated) / (1000 * 60 * 60);
+        if (data && diffHours < 5) {
+            console.log("Dữ liệu còn mới, lấy từ cache:", data.lastUpdated);
+            res.json(data);
+            return;
+        }
+
         const companies = await getAllCompanies();
         const availableCompanies = [];
         const allCompaniesDetails = [];
@@ -123,13 +167,17 @@ app.get('/api/companies', async (req, res) => {
             }
         }
 
-        res.json({
+        const resDTO = {
             success: true,
             availableCompanies,
             allCompaniesDetails,
             acceptanceStats,
             lastUpdated: new Date().toISOString()
-        });
+        }
+
+        await saveToJsonFile(resDTO);
+
+        res.json(resDTO);
 
     } catch (error) {
         console.error("Lỗi handler:", error);
