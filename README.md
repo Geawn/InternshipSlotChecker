@@ -15,6 +15,7 @@ There is also an additional feature that use Gemini api to check if a company re
 
 ## LOG
 
-=)) 💀
+updated user visits log (26/5)
 
-![image](https://github.com/user-attachments/assets/33586998-165d-460f-876f-2f9d272c29c2)
+![image](https://github.com/user-attachments/assets/4261a724-435c-4a68-9642-0cc657042497)
+
